@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true state of the case concerning Sir Edmond Turnor Kt. and George Carew Esq depending upon an especial appeal, to the judges delegates, with adjuncts from a sentence pronounced against them, and others in the admiralty court, at the instance of Jacob Neitz, Andreas Vanden Bogaerd, Michael Vander Plancken, and others, subjects of the King of Spain.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95314</idno>
+            <idno type="STC">Wing T3110</idno>
+            <idno type="STC">ESTC R230459</idno>
+            <idno type="EEBO-CITATION">99896287</idno>
+            <idno type="PROQUEST">99896287</idno>
+            <idno type="VID">154086</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154086)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2396:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true state of the case concerning Sir Edmond Turnor Kt. and George Carew Esq depending upon an especial appeal, to the judges delegates, with adjuncts from a sentence pronounced against them, and others in the admiralty court, at the instance of Jacob Neitz, Andreas Vanden Bogaerd, Michael Vander Plancken, and others, subjects of the King of Spain.</title>
+               </titleStmt>
+               <extent>[4] p. :   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Dated at end: Actum 12th. of January 1677.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turner, Edmond, --  Sir --  Early works to 1800.</term>
+               <term>Carew, George --  Esq. --  Early works to 1800.</term>
+               <term>Reprisals --  Early works to 1800.</term>
+               <term>Privateering --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:154086:1" rendition="simple:additions"/>
+            <head>A true State of the Caſe concerning Sir EDMOND TURNOR K<hi rend="sup">t</hi>. and GEORGE CAREW Eſq;</head>
+            <head>DEPENDING Upon an eſpecial Appeal, to the Judges Delegates, with adjuncts from a Sentence pronounced againſt them, and others in the Admiralty Court, at the Inſtance of <hi>Jacob Neitz, Andreas Vanden Bogaerd, Michael Vander Plancken,</hi> and others, Subjects of the <hi>King of Spain.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He</hi> King of Great Britain; <hi>in the year</hi> 1665. <hi>having granted ſpecial Let<g ref="char:EOLhyphen"/>ters of Repriſals, againſt the</hi> States General <hi>and their Subjects (for the reaſons therein contained) under the great Seal of</hi> England, <hi>unto the ſaid Sir</hi> Edmond Turnor, <hi>and</hi> George Carew; <hi>and their Aſſigns, to continue effectually in force, until the ſum of</hi> 151612 l. ſterling, <hi>ſhould be recover<g ref="char:EOLhyphen"/>ed, with Coſts and Damages; wherein His</hi> Majeſty, <hi>ſignified his Will and Pleaſure to be ſuch. That all Iudges, Officers, Miniſters, and Subjects of</hi> England, <hi>ſhould be Ayding and Aſſiſting therein; and to take care that the ſaid Letters Patents, and Commiſſions thereupon, ſhould be favourably interpreted, and conſtrued in all reſpects, to the benefit and beſt advantage of Sir</hi> Edmond Turnor, <hi>and</hi> George Carew, <hi>their Executors, Adminiſtrators and Aſſigns; as by an authentick Copy of the ſaid Letters Patents hereunto annexed appears.</hi>
+            </p>
+            <p>
+               <hi>At the importunity of ſeveral Perſons intereſſed, in the ſaid Letters Patents, for whom the ſaid</hi> Turnor <hi>and</hi> Carew <hi>were nominated and intruſted. An Exemplification of the ſaid Ori<g ref="char:EOLhyphen"/>ginal grant; was delivered to one</hi> Captain Tyrence Birne, <hi>by the ſaid</hi> George Carew <hi>to put the ſame in Execution, according to the force and effect thereof, againſt the</hi> States General <hi>and their Subjects. Whereupon the ſaid</hi> Carew, <hi>only indorſed an appointment upon the back ſide of the Exemplification in theſe words</hi> (viz) I the within named <hi>George Carew,</hi> do here<g ref="char:EOLhyphen"/>by conſtitute, aſſign, and appoint Captain <hi>Tyrence Birne,</hi> Commander of the good Ship the <hi>Royal;</hi> mentioning therein the burthen, number of Men, Guns, and time of victualling, to do, and Execute all and every ſuch Act, and thing as by him the ſaid <hi>Birne</hi> may be done, Exe<g ref="char:EOLhyphen"/>cuted and performed; by virtue of the ſaid Letters Patents, In witneſs whereof, the ſaid <hi>Carew</hi> ſet his Hand and Seal. <hi>The ſaid</hi> Captain Birne, <hi>promiſing to procure Sir</hi> Edmond Turnor <hi>to ſign the ſame, which the ſaid</hi> Birne <hi>neglected to do.</hi>
+            </p>
+            <p>
+               <hi>In purſuance of the ſaid ſingle appointment,</hi> Captain Birne <hi>pirocured</hi> Jonathan Froſt, <hi>and other his part-owners, to ſet forth the ſaid Ship to Sea; and conſequently in or about the Month of</hi> Auguſt 1666. <hi>near</hi> Portland Bay, <hi>He ſeized a Fly-boat, laden with Wine, Salt,</hi> &amp;c. <hi>lately named the</hi> Godlive <hi>of</hi> Brugis, <hi>coming from</hi> France, <hi>and bound for</hi> Amſterdam; <hi>and carried the ſaid Fly-boat into the Harbour of</hi> Chicheſter, <hi>from whence he ſent to Mr.</hi> Suckling <hi>his Proctor for a Commiſſion to examine the Maſter and the Seamen, who confeſſed themſelves to be</hi> Hollanders <hi>born, the Ship</hi> Dutch <hi>built, and the goods couſigned to</hi> Dutch-men. <hi>Then upon return of the ſaid Commiſſion from the chief Magiſtrates of</hi> Chicheſter; <hi>the Iudge of the Admiralty, pronounced that there was good cauſe of ſeizure, and condemned the pretended claimers in the expences; But in regard one</hi> Peter Gerrard <hi>claimed the Ship and Goods, for the accompt of</hi> Jacob Neitz, <hi>and others, Burgers and Inhabitants of</hi> Brugis <hi>in</hi> Flanders; <hi>an Order of Court was made (the Goods being periſhable,) that both Ship and Goods ſhould be reſtored, upon Bail to abide the Sentence, upon hearing the cauſe; which the Claymer re<g ref="char:EOLhyphen"/>fuſed to give, pretending, that before the Ship was taken into the Vice-Admiralls cuſtody, or Wayters of the Cuſtom-Houſe put upon her; that much Salt, Wine, and Saffron, was im<g ref="char:EOLhyphen"/>beazelled. Whereupon they Arreſted</hi> Captain Birne, <hi>by Writ out of the Admiralty for</hi> 1000 l. <hi>damages, and committed him to the</hi> Marſhallſey, <hi>who gave good and ſufficient Bail by two Citizens of</hi> London, <hi>to anſwer the ſaid Action.</hi>
+            </p>
+            <pb facs="tcp:154086:2"/>
+            <p>
+               <hi>Afterwards the Ship and Goods, upon pretended Certificates from</hi> Brugis; <hi>and new examina<g ref="char:EOLhyphen"/>tions, were reſtored by decree of the Court, and confirmed by the Lords Commiſſioners for Prizes; and actually delivered accordingly. Then Mr.</hi> Francklin <hi>Proctor for the pretended Claimers, Exhibited a Libel againſt Sir</hi> Edmond Turnor, George Carew, Captain Birne, <hi>and</hi> Jonathan Froſt, <hi>without any diſcontinuance, or proſecution of the Action for</hi> 1000 l. <hi>againſt</hi> Birne, <hi>And framed an impertinent Sentence againſt Sir</hi> Edmond Turnor <hi>and</hi> George Carew <hi>(who were not Arreſted, Cited, or Summoned to defend the ſaid Cauſe)</hi> Tyrence Birne, <hi>and</hi> Jona<g ref="char:EOLhyphen"/>than Froſt, <hi>for eighteen hundred pounds damages, through imbeazilments leakage and ſpoiling the Ship and Goods by lying, (although occaſſoned by the wilfull default of the pretended owners) wherefore Sir</hi> Edmond Turnor <hi>and</hi> George Carew, <hi>appealed by themſelves for a Nullity of the ſaid Sentence as repugnant to Law, and of a dangerous conſequence to the Sub<g ref="char:EOLhyphen"/>jects of</hi> England, <hi>if ſuch practices ſhould be brought into preſident.</hi>
+            </p>
+            <p>
+               <hi>That one</hi> Peter Victorine <hi>a perſon born in</hi> Amſterdam <hi>appeared for the pretended Clamers (after</hi> Peter Gerrard <hi>run away to avoid payment of the expences, and the charges of the Sea<g ref="char:EOLhyphen"/>men at</hi> Chicheſter, <hi>which are yet unſatisfied) and continues in his malicious and vexatious proſecutions againſt</hi> Turnor <hi>and</hi> Carew, <hi>notwithſtanding there is not upon their own ſhew<g ref="char:EOLhyphen"/>ing, any the leaſt proof againſt the ſaid</hi> Turnor <hi>and</hi> Carew <hi>in all their Examinations, (though of no Record, to make them chargeable or guilty of any imbeazilment, or ſo much as the know<g ref="char:EOLhyphen"/>ledge of any of the ſaid tranſactions mentioned in the ſaid Sentence, from which they ap<g ref="char:EOLhyphen"/>pealed to His Majeſty in the High Court of Chancery, who appointed the ſame to be heard, and determined by the Right Honourable the Lord Chief Iuſtice</hi> Rainsford, <hi>Iudge</hi> Wild, <hi>Iudge</hi> Windam, <hi>Faron</hi> Littleton, <hi>Sir</hi> Richard Loyde, <hi>Sir</hi> Timothy Baldwin, <hi>Sir</hi> Edward Lowe, <hi>Dr.</hi> Pinfold, <hi>Dr.</hi> Trumball, <hi>Dr.</hi> Digby, <hi>Dr. and</hi> Briggs, <hi>or a competent number of them, as by the ſaid Commiſſion unto them directed, under the great Seal of</hi> England <hi>appears.</hi>
+            </p>
+            <div type="part">
+               <head>
+                  <hi>Several Reaſons and Arguments, why the ſaid Sen<g ref="char:EOLhyphen"/>tence of</hi> 1800 l. <hi>ought to be reverſed, made null and void against the ſaid Sir</hi> Edmond Turnor, <hi>and</hi> George Carew.</head>
+               <p>IT is alledged in the firſt Article of the pretended Libel againſt <hi>Sir Edmond T<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>r,</hi> and <hi>George Carew,</hi> and alſo againſt <hi>Jonathan Froſt,</hi> and <hi>Tyrence</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and it is ſo pronounced in the Sentence (from which the ſaid <hi>Sir <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Turnor,</hi> and <hi>George Carew,</hi> by themſelves appealed; eſpecially for a <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> directed to ſeveral Judges of the Common Law, as Adjuncts with the ordinary Delegates, Civil Lawyers, unto which Doctors, <hi>Frost</hi> and <hi>Brine,</hi> appealed) that they were Owners, Fraighters, or Inſurers of the Ship <hi>Royal;</hi> whereof the ſaid <hi>Tyrence Pirne</hi> was Captain, and that they did Man, Equip, Victual, Furniſh, and ſet the ſaid Ship to Sea at their Coſts and Charges, which is a groſs miſtake, Erronious, falſe and contrary to the truth of the matter, ſo far forth as concerneth the ſaid <hi>Sir Edmond Turnor,</hi> and <hi>George Carew;</hi> neither is there any ſuch thing proved, or any wayes depoſed in the Admiralty Court in the ſaid Proceſs tranſmitted; wherefore <hi>(Libellum non probatum ſecundum alle<g ref="char:EOLhyphen"/>gatum)</hi> the Sentence is null and void, as erronious and unjuſt.</p>
+               <p>And in the following Articles of the ſaid pretended Libell, it's alledged that <hi>Tur<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> and <hi>Carew</hi> ratified, allowed and confirmed the ſeizure of the Ship <hi>Godilive</hi> of <hi>Brugis,</hi> and her Lading, and the diſpoſal of the Goods taken out by <hi>Birne,</hi> and others, And the damnifying the reſt of the Goods by lying; in regard, <hi>Froſt</hi> and <hi>Birne</hi> proceeded to adjudication in the Admiralty, in the names of <hi>Sir Edmond Turnor</hi> and <hi>George Carew.</hi> Although neither of them, the ſaid <hi>Turnor</hi> and <hi>Carew</hi> gave any ſuch Order; or did at any time lay out any Money, or promiſe by way of contribution towards the proſecution thereof, for any Fees or Salaries to Ad<g ref="char:EOLhyphen"/>vocates, Proctors, or Regiſters, who were imployed in the ſaid Proceſs before Sentence; neither are any of theſe things made out in the proofs tranſmitted, <hi>pro ut, &amp;c.</hi>
+               </p>
+               <pb facs="tcp:154086:3"/>
+               <p n="3">3 Admitting that <hi>Sir Edmond Turnor,</hi> had alſo ſigned the Deputation to Captain <hi>Birne,</hi> whereby he might have ſeized any Ships, Goods, or Merchandizes be<g ref="char:EOLhyphen"/>longing to the <hi>States General</hi> and their Subjects; Yet if he had taken, or ſeized any Ships or Goods, belonging to the Subjects of any other <hi>Prince</hi> or <hi>State,</hi> he had no Warrant or Authority from <hi>Turnor</hi> or <hi>Carew</hi> ſo to do, or to break bulk before Adjudication, or to do any thing beyond the force and effect of the Let<g ref="char:EOLhyphen"/>ters Patents, ſuch Actions are perſonal injuries; and by the Law of <hi>England,</hi> no man ſhall ſuffer for the offence of another, and <hi>Birne</hi> himſelf was Arreſted for it; and had taken upon him to defend it, and given in good Bail accordingly.</p>
+               <p n="4">4. It is againſt the rules of all Juſtice, that any man ſhould be condemned before he be heard; and how <hi>Sir Edmond Turnor</hi> and <hi>George Carew</hi> ſhould make their defence upon any Action, or Libell againſt them, being not Arreſted or Legally cited, or ſummoned to ſee ſuch Libell admitted againſt them. Wherefore, ſuch an Action, Proceedings and Sentence upon it, is void and null to all intents and purpoſes of the Law,</p>
+               <p n="5">5. It appears upon the pretended claimer's own ſhewing throughout their whole Proceſs tranſmitted, wherein ſo much Paper is ſpoiled, that the greateſt damages were occaſioned by delay of proceedings after the Capture; for which the ſaid Claimers were condemned <hi>in expenſis retardati proceſsus,</hi> at the inſtance of <hi>Birne</hi> and <hi>Froſt,</hi> that only Proſecuted in the names of <hi>Turnor</hi> and <hi>Carew.</hi> And it alſo appears in the proofs that the Embeazelments were done by particular perſons in the Ports, Havens, and Rivers of <hi>Chicheſter,</hi> and <hi>Pool,</hi> within the Bodies of the Counties of <hi>Suſſex,</hi> and <hi>Dorcet,</hi> and ought to be tryed there according to the Common Laws and Statutes of <hi>England,</hi> by matter of Record; and thoſe per<g ref="char:EOLhyphen"/>ſons to be queſtioned only (by Action of <hi>Trover,</hi> or by <hi>Information</hi>) that did the wrong; there cannot be any preſident found, that ever any Admiral, Commiſſioner of the Peace, or any other Officer, or Miniſter whatſoever, who was neither <hi>particeps Criminis nec Muneris,</hi> was queſtioned for any thing done contrary to a Legal War<g ref="char:EOLhyphen"/>rant and Authority given or granted out by either of them; but that only the party offending was called to queſtion for exceeding his Commiſſion, or Authority.</p>
+               <list>
+                  <item>
+                     <hi>In the</hi> 42 <hi>of</hi> Ed. III. <hi>it is enacted that no Man be put to anſwer, but by due Proceſs, and matter of Record according to the old Law of the Land, and if any thing be done to the contrary, it ſhall be void in Law, and holden for Error.</hi>
+                  </item>
+                  <item>
+                     <hi>In the</hi> 8. Ed. II. Tit. Coron. 399. <hi>It is no part of the Sea, where one Man may ſee the Land of both ſides, and of any thing done there, the Country may have knowledge; where<g ref="char:EOLhyphen"/>by it appeareth, that things done there, are tryable by the Country; (that is by Iury) and conſequently not in the Admirall Court.</hi>
+                  </item>
+                  <item>
+                     <hi>In</hi> Ed. I. Tit. Avowry 191. <hi>A Replevin was brought in</hi> Murfords <hi>Caſe, for taking of a Ship on the Coaſt of</hi> Scarborow <hi>in the Sea, and for carrying the ſame into the County of</hi> Northumberland, Berry <hi>Chief Iuſtice of the</hi> Common Pleas, <hi>adjudged when a taking is partly on the Sea, and partly in a River, the Common Law ſhall have Iuriſdiction.</hi>
+                  </item>
+                  <item>
+                     <hi>By the ſeveral Statutes in the</hi> 13 <hi>of</hi> R. 2. Cap. 3. <hi>and the</hi> 15. <hi>of</hi> R. 2. Cap. 5. <hi>and the</hi> 2. <hi>of</hi> H. 4 Cap. 11. <hi>wherein all the Subjects of</hi> England <hi>have an intereſt, it is enacted that the Court of the Admiral ſhall have no Iuriſdiction, or to meddle with any thing done within the Realm, by Land or Water, within the bodies of any County of</hi> Eng<g ref="char:EOLhyphen"/>land. <hi>And there being grievious Complaints made in thoſe days by the Commons of</hi> England, <hi>that the Court of Admiralty had incroached upon the Iuriſdiction of the Com<g ref="char:EOLhyphen"/>mon Law, to the intollerable grievance of the Subjects; it was enacted that any perſon finding himſelf grieved againſt the form of the Statutes, and the Common Law, ſhall have his Action pronounced upon the Caſe againſt him that purſues in the Admiralls Court, and ſhall recover his double damages againſt the purſuant; and the ſaid purſuant ſhall Incur the penalty of</hi> 10 <hi>l. to the King for the purſuit ſo made, if he be convicted thereof.</hi>
+                  </item>
+               </list>
+               <pb facs="tcp:154086:4"/>
+               <p>The ſeizure was adjudged Legal, upon ſeveral circumſtances in the Caſe, the damages afterwards was through the default of the pretended Claimers: And the embeazilments being done by ſeveral perſons within the bodies of the County of <hi>Suſſex</hi> and <hi>Dorcet,</hi> where the municipal Law of <hi>England,</hi> and not the Civil Law hath the Juriſdiction. It is poſitively againſt the Rights, Liberties, and Pro<g ref="char:EOLhyphen"/>perties of the Subjects, that any ſuch Sentence ſhould be confirmed againſt <hi>Sir Edmond Turnor</hi> and <hi>George Carew.</hi>
+               </p>
+               <p>As Sir <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dmond Turnor</hi> and <hi>George Carew,</hi> do not take upon themſelves to ex<g ref="char:EOLhyphen"/>cuſe Captain <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>irne</hi> and <hi>Jonathan <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>roſt,</hi> or the perſons who are Bail for either; but leave them to the due courſe of Law: So the ſaid <hi>Turnor</hi> and <hi>Carew,</hi> cannot but accuſe the pretended Claimers, or owners of the Fly-bote and her Lading; for that the pretended Claimers and their Agents, perſiſted in their Practices, to de<g ref="char:EOLhyphen"/>fraud the King as they had done his Subjects, whereby they forfeited both Ship and Goods, upon two ſeveral offences againſt ſeveral Acts of Parliament, as by ſeveral Certificates under the Officers hands of the Cuſtom-houſe and other Teſtimonials appears.</p>
+               <p>
+                  <hi>viz.</hi> After the Ship and Goods were reſtored, as belonging to the Subjects of the King of <hi>Spain,</hi> and ought to have gone for <hi>Brugis</hi> or <hi>Ostend.</hi> Yet they did contrary to the Act of Navigation, bring Ship and Goods to the port of <hi>London,</hi> (without Letters of Safe-conduct) and there deliver them, being of the growth of <hi>France,</hi> which was a forfeiture of both Ship and Goods by the Law. Secondly, The Wine, Salt, <hi>&amp;c.</hi> were Entred as <hi>Engliſh</hi> Goods by an <hi>Engliſh</hi> Man that they had procured to Enter the ſame, to defraud the King of Forraigners duties, ſo they wanted not Common Claimers to make them firſt <hi>Spaniſh,</hi> and then <hi>Engliſh,</hi> for their purpoſes notwithſtanding they were <hi>Hollanders</hi> Goods.</p>
+               <p>
+                  <hi>It is to be obſerved, that Sir</hi> Edward Turnor <hi>and</hi> George Carew, <hi>(in regard they did not repectively make the leaſt defence in the ſaid Cauſe, before the Sentence) have ſeverally purged themſelves upon Oath before a Master of Chancery, to confirm all that they have reſpectively alledged in their own defence, before the Judges, Delligates, which Affidavits ought to be read, and come in Iſſue, at the hearing and finall determination of the ſaid Cauſe.</hi>
+               </p>
+            </div>
+            <closer>
+               <dateline>
+                  <hi>Actum</hi> 
+                  <date>12th. <hi>of</hi> January 1677.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
